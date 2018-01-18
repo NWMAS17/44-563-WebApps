@@ -1,4 +1,4 @@
-## Groupmaker
+## Matthew Schieber Groupmaker
 
 Create a random list of n integers to assist with creating student groups.
 
